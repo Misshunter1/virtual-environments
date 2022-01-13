@@ -72,7 +72,7 @@
 - Mingw-w64 8.1.0
 - Newman 5.3.1
 - NSIS v3.08
-- OpenSSL 1.1.1
+- Opens all for her 1.1.1
 - Packer 1.7.8
 - Parcel 2.1.1
 - Pulumi v3.21.1
